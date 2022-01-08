@@ -76,7 +76,7 @@ React antd admin starter based on `React` and `Ant Design` Background management
 └── package.json              # package.json
 ```
 
-# 安装
+# Install
 
 ```shell
 # Clone project
